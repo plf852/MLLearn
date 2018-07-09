@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfaf5d26-32d1-48e2-8c77-cf9d62846b45" name="Default" comment="" />
+    <list default="true" id="cfaf5d26-32d1-48e2-8c77-cf9d62846b45" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/SelfPractice/FunctionTest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SelfPractice/FunctionTest/melb_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SelfPractice/FunctionTest/函数测试.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MLLearn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MLLearn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/HousePrices/HousePrices.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/projects/HousePrices/HousePrices.ipynb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,34 +19,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="36">
-                <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="函数测试.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SelfPractice/FunctionTest/函数测试.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HousePrices.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projects/HousePrices/HousePrices.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="1" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SelfPractice/函数测试.ipynb" />
+        <option value="$PROJECT_DIR$/SelfPractice/函数测试/函数测试.ipynb" />
+        <option value="$PROJECT_DIR$/SelfPractice/FunctionTest/函数测试.ipynb" />
+        <option value="$PROJECT_DIR$/projects/HousePrices/HousePrices.ipynb" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="100" />
-    <option name="y" value="100" />
+    <option name="x" value="269" />
+    <option name="y" value="24" />
     <option name="width" value="1301" />
     <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -49,24 +85,60 @@
             <path>
               <item name="MLLearn" type="b2602c69:ProjectViewProjectNode" />
               <item name="MLLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="kaggleLearn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MLLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MLLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="kaggleLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="处理丢失数据" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MLLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MLLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="MachineLearningBase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MLLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MLLearn" type="462c0819:PsiDirectoryNode" />
               <item name="projects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MLLearn" type="b2602c69:ProjectViewProjectNode" />
               <item name="MLLearn" type="462c0819:PsiDirectoryNode" />
               <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="官场分析" type="462c0819:PsiDirectoryNode" />
+              <item name="HousePrices" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MLLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MLLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="SelfPractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MLLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MLLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="SelfPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="FunctionTest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SelfPractice/FunctionTest" />
+      <recent name="$PROJECT_DIR$/SelfPractice/函数测试" />
+      <recent name="$PROJECT_DIR$/SelfPractice" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SelfPractice" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -79,6 +151,24 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MLLearn" type="JupiterNotebook" factoryName="Jupyter Notebook">
+      <module name="MLLearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -98,37 +188,71 @@
       <option name="project" value="LOCAL" />
       <updated>1529033551449</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="更新kaggle level2学习笔记，和代码">
+      <created>1530239526461</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1530239526461</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="100" y="100" width="1301" height="744" extended-state="0" />
+    <frame x="269" y="24" width="1301" height="744" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960877" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007825" side_tool="true" visible="true" weight="0.32935154" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49921754" weight="0.32935154" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.64319247" weight="0.7372014" />
+      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49843505" weight="0.3452381" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="EXTERNAL /home/plf/Documents/MLLearn">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="修改了readme.md markdown格式" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改了readme.md markdown格式" />
+    <MESSAGE value="更新kaggle level2学习笔记，和代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新kaggle level2学习笔记，和代码" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -138,6 +262,43 @@
             <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="36">
+            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfPractice/函数测试/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfPractice/FunctionTest/melb_data.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfPractice/FunctionTest/函数测试.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfPractice/FunctionTest/函数测试.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/HousePrices/HousePrices.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
         </state>
       </provider>
     </entry>
